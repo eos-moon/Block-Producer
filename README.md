@@ -1,2 +1,2 @@
-# Block-Producer
+# Block Producer
 EOS Block Producer candidate - EOS MOON
